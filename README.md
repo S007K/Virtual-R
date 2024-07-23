@@ -4,7 +4,7 @@ Welcome to the VirtualR landing page repository! VirtualR is a cutting-edge virt
 
 ### Demo
 
-Explore our live demo [here](https://virtual-r-six.vercel.app/).
+Explore our live demo [here](https://s007k.github.io/Virtual-R/).
 
 ## Features
 - Immersive VR Experiences: Dive into realistic virtual environments.
